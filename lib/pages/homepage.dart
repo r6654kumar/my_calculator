@@ -82,7 +82,7 @@ Widget build(BuildContext context) {
             buttontapped: (){
               setState(() {
                 if(userInput!='-'){
-                  userInput += '-';
+                  userInput= '-'+ userInput;
                 }
               });
             },
