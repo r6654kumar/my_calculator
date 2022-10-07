@@ -1,16 +1,8 @@
 # my_calculator
+This is my first Project as i am starting my journey to learn App Development using Flutter.
+# features
+->Performs Simple Mathematical Calculations.
+->Changes themes based on system settings.
+->Cross Platform App (Built using Flutter Framework)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
