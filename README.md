@@ -7,8 +7,11 @@ This is my first Project as i am starting my journey to learn App Development us
 
 # screenshots
 -> Android Interface
-     Light Mode                                                             Dark Mode
-![](Screenshots/Screenshot_1665172795.png)               ![](Screenshots/Screenshot_1665172730.png)
+
+![](Screenshots/Screenshot_1665172795.png)     
+
+![](Screenshots/Screenshot_1665172730.png)
 
 -> Web Interface
+
 ![](Screenshots/Screenshot%202022-10-08%20013108.png)
