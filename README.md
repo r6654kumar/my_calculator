@@ -5,8 +5,10 @@ This is my first Project as i am starting my journey to learn App Development us
 ->Changes themes based on system settings.
 ->Cross Platform App (Built using Flutter Framework)
 
-# Screenshots
+# screenshots
+-> Android Interface
+     Light Mode                                                             Dark Mode
+![](Screenshots/Screenshot_1665172795.png)               ![](Screenshots/Screenshot_1665172730.png)
 
-![](Screenshots/Screenshot%202022-10-07%20192530.png)
-
-![](Screenshots/Screenshot%202022-10-07%20192659.png)
+-> Web Interface
+![](Screenshots/Screenshot%202022-10-08%20013108.png)
