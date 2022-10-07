@@ -59,7 +59,9 @@ Widget build(BuildContext context) {
 			child: GridView.builder(
 				itemCount: buttons.length,
 				gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-					crossAxisCount: 4),
+					crossAxisCount: 4,
+            childAspectRatio: MediaQuery.of(context).size.width /
+              (MediaQuery.of(context).size.height / 2),),
 				itemBuilder: (BuildContext context, int index) {
 					// Clear Button
 					if (index == 0) {
